@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rafał Krupa. 
-- 👀 I’m interested in automotiv and web
+- 👀 I’m interested in automotiv
 <!---
 -  and mobile desing. I'm an  future Frontend Developer seeking an entry-level position in Company where i can use my skills in coding, troubleshooting complex problems, and assisting in the  completion of projects.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Sass, React
