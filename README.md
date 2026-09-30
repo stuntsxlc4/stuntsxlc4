@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Rafał Krupa. 
 # Hi, I'm Rafał Krupa 👋
 
 I'm focused on Python, AI-powered applications, and backend engineering.
